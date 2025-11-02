@@ -10,7 +10,7 @@ A simple yet engaging **maze game** built with **C++ and SFML**, featuring real-
   Each run generates a new unique maze layout.
 
 - 🚶 **Smooth Player Movement**  
-  Move using **arrow keys (↑ ↓ ← →)** to find your way out.
+  Move using **arrow keys (↑ ↓ ← →)**  of ** W A S D keys ** to find your way out.
 
 - ⏱️ **Countdown Timer**  
   A sleek dark-mode timer box in the top-right corner tracks your time.
